@@ -7,6 +7,7 @@
 - It'll really help the discussion if we introduced the terms "for-each loop", "indexed loop", and "enumerated loop" to distinguish these approaches to the for loop in Python. It might be a bit much for a beginner, idk.
 - I could probably do more thorough testing - I'm not sure what the standards are at Boot.dev
 - In my test cases, I assumed that python variables can only start with letters and an underscore - I know that unicode characters are allowed. Honestly I could've probably blanketed it as a \S match (as non-compilations aren't something to worry about), but I've already written them and it should probably cover > 99.9% of use cases.
+- You may be valid in criticizing me in capitalizing the root `README` as I'm not being consistent. I just feel like capitalized `readme`s are the general convention in repos, so I chose to use it for my stuff, while following the requested naming convention for the lessons.
 
 ## ListComprehension
 
